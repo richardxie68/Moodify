@@ -8,9 +8,19 @@ The goal of creating Moodify was to hopefully help improve the mental health of 
 
 1. Download the project via git / or zip
 2. Open folder
-3. Double click on .xcodeproj file
-4. Run the project
+3. Double click on Mind Diary.xcodeproj file
+4. Open the Moodify Application
 
 ### Prerequistes
 
-Have XCode downloaded
+1. Have XCode downloaded
+
+## How To Use
+1. Press "View Log" to enter your thoughts and feelings -> Click on "Personalized Resources" to view resources recommended for you
+2. Press "View Statistics" to view your past Statistics"
+3. Press "Resources" to view resources recommended for you
+
+## Built With
+Swift
+XCode
+IBM Watson API
