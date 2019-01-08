@@ -1,4 +1,4 @@
-#Moodify
+# Moodify
 
 Moodify is an iOS application that allows users to write down their thoughts in a journal, where Artificial Intelligence performs analysis and returns custom feedback for the user. The app was created at StarterHacks (Jan 2018), hosted at the University of Waterloo. It was created using Swift, Xcode, and IBM Watson’s API. 
 
