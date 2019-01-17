@@ -13,7 +13,7 @@ The goal of creating Moodify was to hopefully help improve the mental health of 
 
 ### Prerequistes
 
-1. Have XCode downloaded
+1. Download XCode
 
 ## How To Use
 1. Press "View Log" to enter your thoughts and feelings -> Click on "Personalized Resources" to view resources recommended for you
